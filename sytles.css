@@ -600,7 +600,9 @@ form .btn2 {
     }
 
     .about-col-1 img {
-        max-width: 80%;
+        max-width: 50%;
+        padding-top: 0%;
+        margin-top: -20%;
     }
 
     .tab-titles {
